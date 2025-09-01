@@ -1,0 +1,9 @@
+{
+  "id": "level-builder-ai",
+  "name": "Level Builder AI",
+  "version": "1.0.0",
+  "description": "Automatic level generator for Geometry Dash with decorations and passability check.",
+  "author": "Snovka999",
+  "license": "MIT",
+  "entry": "main.lua"
+}
